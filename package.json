@@ -1,0 +1,15 @@
+{
+  "name": "fenyan",
+  "version": "1.0.0",
+  "description": "too lazy to write a description",
+  "main": "src/index.js",
+  "bin": {
+    "fenyan": "./bin/fenyan"
+  },
+  "license": "MIT",
+  "dependencies": {
+    "commander": "^2.5.0",
+    "jsonfile": "^2.0.0",
+    "colors": "^1.0.3"
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "use": ["composer", "shell"],
+  "project": "fenyan",
+  "description": "too lazy",
+  "scripts": {
+    "echo": {
+      "description": "mydescription",
+      "command": "echo -version toto -project test"
+    }
+  }
+}
